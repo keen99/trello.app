@@ -2,6 +2,7 @@
   "name": "trello-shell",
   "main": "index.html",
   "window": {
-    "frame": false
+    "frame": true,
+	"toolbar": false
   }
 }
